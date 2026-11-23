@@ -1,0 +1,4 @@
+requests>=2.28,<3
+Pillow>=9,<13
+notebook>=6
+opencv-python-headless>=4.6,<5
