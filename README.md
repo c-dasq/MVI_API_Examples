@@ -80,4 +80,14 @@ Use dataset creation, upload, labels, metadata, and cloning after you understand
 - [IBM MVI 8.6 REST API](https://public.dhe.ibm.com/systems/power/docs/powerai/api860.html)
 - [IBM API key tokens](https://www.ibm.com/docs/en/masv-and-l/maximo-vi/cd?topic=apis-api-key-tokens)
 
-These examples are adapted and simplified from the sample notebooks supplied for this project
+These examples are adapted and simplified from the sample notebooks supplied for this project.
+
+### Disclaimer
+
+This repository is an independent, community-driven project created for educational and demonstration purposes to help developers understand and interact with the Maximo Visual Inspection (MVI) API.
+
+It is provided **"AS IS"**, without warranties of any kind or any commitment to provide support, maintenance, or updates.
+
+**This project is not affiliated with, endorsed by, sponsored by, or officially supported by IBM, Maximo, or Maximo Visual Inspection.** 
+
+All product names, trademarks, and registered trademarks are the property of their respective owners.
