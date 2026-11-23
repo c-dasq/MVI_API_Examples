@@ -1,4 +1,4 @@
-# MVI API training notebooks
+# MVI API notebooks
 
 Simple Jupyter notebooks for learning the IBM Maximo Visual Inspection (MVI) REST API
 
